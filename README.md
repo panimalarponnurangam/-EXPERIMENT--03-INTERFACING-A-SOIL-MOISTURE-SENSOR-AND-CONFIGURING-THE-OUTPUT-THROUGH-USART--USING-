@@ -237,7 +237,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 {}
 #endif
 ```
-HARDWARE CONNECTIONS:
+##HARDWARE CONNECTIONS:
+
 ![280452016-8474c556-8a01-4938-ac64-a6a6d6c93100](https://github.com/panimalarponnurangam/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/121490826/1dafffad-8a4d-4573-b7b0-55905caedca4)
 
 ## Output screen shots of Serial port utility   :
